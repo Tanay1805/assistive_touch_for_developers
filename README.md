@@ -31,3 +31,7 @@ Certainly! Here are the steps for users to download and use your extension from 
    Encourage users to provide feedback or report issues by creating GitHub issues in your repository. This helps in improving the extension and fixing any bugs users might encounter.
 
 By following these steps, users should be able to easily download and use your extension from the public repository.
+
+
+<img width="340" alt="Screenshot 2024-06-10 at 1 03 30 AM" src="https://github.com/Tanay1805/assistive_touch_for_developers/assets/142775586/b661d05f-6bbe-4d2f-8bec-6e5904550e65">
+
