@@ -2,8 +2,7 @@
 This is a assistive touch tool for all developers to increase their work productivity and developer friendly.
 
 
-
-Certainly! Here are the steps for users to download and use your extension from a public repository:
+Steps to download the extension.
 
 1. **Visit the Repository:**
    Users should visit the public repository hosting your extension. Provide them with the URL to the repository.
@@ -30,7 +29,7 @@ Certainly! Here are the steps for users to download and use your extension from 
 7. **Providing Feedback:**
    Encourage users to provide feedback or report issues by creating GitHub issues in your repository. This helps in improving the extension and fixing any bugs users might encounter.
 
-By following these steps, users should be able to easily download and use your extension from the public repository.
+By following these steps, you will be able to easily use the extensions.
 
 
 <img width="340" alt="Screenshot 2024-06-10 at 1 03 30 AM" src="https://github.com/Tanay1805/assistive_touch_for_developers/assets/142775586/b661d05f-6bbe-4d2f-8bec-6e5904550e65">
