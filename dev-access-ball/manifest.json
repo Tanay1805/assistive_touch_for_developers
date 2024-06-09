@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Developer Quick Access Ball",
+    "version": "1.0",
+    "description": "Quick access to YouTube, LeetCode, GitHub, Stack Overflow, and Twitter.",
+    "icons": {
+      "48": "icon.png"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+    "permissions": []
+  }
+  
